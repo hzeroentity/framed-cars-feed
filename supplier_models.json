@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-24",
+  "generated_at": "2026-07-01",
   "source": "baloccomodel.com",
-  "count": 1164,
+  "count": 1117,
   "brands": [
     "Bburago",
     "Maisto",
@@ -32,15 +32,6 @@
       "category": "Auto Stradali",
       "image_url": "https://www.baloccomodel.com/images/thumbs/0090393_mercedes-slk-1996-vivianit-green-1-18.jpg",
       "product_url": "https://www.baloccomodel.com/103648-mercedes-slk-1996-vivianit-green-1-18"
-    },
-    {
-      "brand": "Norev",
-      "article_code": "NV183360",
-      "name": "MERCEDES 280 SE 1968 BLACK 1:18",
-      "scale": "1:18",
-      "category": "Auto Stradali",
-      "image_url": "https://www.baloccomodel.com/images/thumbs/0090394_mercedes-280-se-1968-black-1-18.jpg",
-      "product_url": "https://www.baloccomodel.com/105951-mercedes-280-se-1968-black-1-18"
     },
     {
       "brand": "Norev",
@@ -116,30 +107,12 @@
     },
     {
       "brand": "Norev",
-      "article_code": "NV950008",
-      "name": "DODGE CHARGER 1969 \"GENERAL LEE\" JET-CAR NEW GRAPHIC 1:43",
-      "scale": "1:43",
-      "category": "Movie",
-      "image_url": "https://www.baloccomodel.com/images/thumbs/0090410_dodge-charger-1969-general-lee-jet-car-new-graphic-1-43.jpg",
-      "product_url": "https://www.baloccomodel.com/103685-dodge-charger-1969-general-lee-jet-car-new-graphic-1-43"
-    },
-    {
-      "brand": "Norev",
       "article_code": "NV150515",
       "name": "CITROEN 2CV 1978 GERANIUM RED JET CAR 1:43",
       "scale": "1:43",
       "category": "Auto Stradali",
       "image_url": "https://www.baloccomodel.com/images/thumbs/0077618_citroen-2cv-1978-geranium-red-jet-car-1-43.jpg",
       "product_url": "https://www.baloccomodel.com/95300-citroen-2cv-1978-geranium-red-jet-car-1-43"
-    },
-    {
-      "brand": "Norev",
-      "article_code": "NV151520",
-      "name": "CITROEN AMI 100% ELECTRIC 2020 MY AMI ORANGE 1:43",
-      "scale": "1:43",
-      "category": "Auto Stradali",
-      "image_url": "https://www.baloccomodel.com/images/thumbs/0081363_citroen-ami-100-electric-2020-my-ami-orange-1-43.jpg",
-      "product_url": "https://www.baloccomodel.com/51137-citroen-ami-100-electric-2020-my-ami-orange-1-43"
     },
     {
       "brand": "Norev",
@@ -251,15 +224,6 @@
     },
     {
       "brand": "Norev",
-      "article_code": "NV187790",
-      "name": "FIAT 500 JOLLY 1965 YELLOW 1:18",
-      "scale": "1:18",
-      "category": "Auto Stradali",
-      "image_url": "https://www.baloccomodel.com/images/thumbs/0088539_fiat-500-jolly-1965-yellow-1-18.jpg",
-      "product_url": "https://www.baloccomodel.com/98994-fiat-500-jolly-1965-yellow-1-18"
-    },
-    {
-      "brand": "Norev",
       "article_code": "NV187974",
       "name": "ALFA ROMEO GIULIA TI 1964 SKY BLUE 1:18",
       "scale": "1:18",
@@ -302,15 +266,6 @@
       "category": "Auto Stradali",
       "image_url": "https://www.baloccomodel.com/images/thumbs/0088191_vw-transporter-2003-grey-1-18.jpg",
       "product_url": "https://www.baloccomodel.com/98932-vw-transporter-2003-grey-1-18"
-    },
-    {
-      "brand": "Norev",
-      "article_code": "NV188741",
-      "name": "VOLVO 123 GT 1968 RED 1:18",
-      "scale": "1:18",
-      "category": "Auto Stradali",
-      "image_url": "https://www.baloccomodel.com/images/thumbs/0090034_volvo-123-gt-1968-red-1-18.jpg",
-      "product_url": "https://www.baloccomodel.com/105962-volvo-123-gt-1968-red-1-18"
     },
     {
       "brand": "Norev",
@@ -467,15 +422,6 @@
     },
     {
       "brand": "Norev",
-      "article_code": "NV730001",
-      "name": "FERRARI F40 RED JET-CAR\r 1:43",
-      "scale": "1:43",
-      "category": "Auto Stradali",
-      "image_url": "https://www.baloccomodel.com/images/thumbs/0084871_ferrari-f40-red-jet-car-1-43.jpg",
-      "product_url": "https://www.baloccomodel.com/98939-ferrari-f40-red-jet-car-1-43"
-    },
-    {
-      "brand": "Norev",
       "article_code": "NV750044",
       "name": "PORSCHE 911 GT3 RS 2022 WHITE WITH RED STICKERS JET CAR 1:43",
       "scale": "1:43",
@@ -536,15 +482,6 @@
       "category": "Auto Stradali",
       "image_url": "https://www.baloccomodel.com/images/thumbs/0089540_porsche-911-gt3-rs-2022-white-weissach-pack-jet-car-1-43.jpg",
       "product_url": "https://www.baloccomodel.com/103683-porsche-911-gt3-rs-2022-white-weissach-pack-jet-car-1-43"
-    },
-    {
-      "brand": "Norev",
-      "article_code": "NV830120",
-      "name": "AUDI RS 3 2025 KEMORA GREY 1:43",
-      "scale": "1:43",
-      "category": "Auto Stradali",
-      "image_url": "https://www.baloccomodel.com/images/thumbs/0088195_audi-rs-3-2025-kemora-grey-1-43.jpg",
-      "product_url": "https://www.baloccomodel.com/100118-audi-rs-3-2025-kemora-grey-1-43"
     },
     {
       "brand": "Norev",
@@ -611,15 +548,6 @@
     },
     {
       "brand": "Norev",
-      "article_code": "NV188740",
-      "name": "VOLVO AMAZON 1966 MIDNIGHT BLUE 1:18",
-      "scale": "1:18",
-      "category": "Auto Stradali",
-      "image_url": "https://www.baloccomodel.com/images/thumbs/0090033_volvo-amazon-1966-midnight-blue-1-18.jpg",
-      "product_url": "https://www.baloccomodel.com/103662-volvo-amazon-1966-midnight-blue-1-18"
-    },
-    {
-      "brand": "Norev",
       "article_code": "NV771205",
       "name": "FIAT 500 F 1965 PASTEL PINK JET CAR 1:43",
       "scale": "1:43",
@@ -662,24 +590,6 @@
       "category": "Auto Stradali",
       "image_url": "https://www.baloccomodel.com/images/thumbs/0012194_citroen-visa-decapotable-1984-vison-brown-1-43.jpg",
       "product_url": "https://www.baloccomodel.com/51127-citroen-visa-decapotable-1984-vison-brown-1-43"
-    },
-    {
-      "brand": "Norev",
-      "article_code": "NV155310",
-      "name": "CITROEN C3 2024 ELIXIR RED/BLACK ROOF 1:43",
-      "scale": "1:43",
-      "category": "Auto Stradali",
-      "image_url": "https://www.baloccomodel.com/images/thumbs/0079971_citroen-c3-2024-elixir-red-black-roof-1-43.jpg",
-      "product_url": "https://www.baloccomodel.com/96782-citroen-c3-2024-elixir-red-black-roof-1-43"
-    },
-    {
-      "brand": "Norev",
-      "article_code": "NV158224",
-      "name": "CITROEN GS 1971 BEIGE ERABLE 1:43",
-      "scale": "1:43",
-      "category": "Auto Stradali",
-      "image_url": "https://www.baloccomodel.com/images/thumbs/0079469_citroen-gs-1971-beige-erable-1-43.jpg",
-      "product_url": "https://www.baloccomodel.com/95259-citroen-gs-1971-beige-erable-1-43"
     },
     {
       "brand": "Norev",
@@ -1160,30 +1070,12 @@
     },
     {
       "brand": "Norev",
-      "article_code": "NV188628",
-      "name": "VW GOLF CABRIOLET QUARTETT 1992 BLUE 1:18",
-      "scale": "1:18",
-      "category": "Auto Stradali",
-      "image_url": "https://www.baloccomodel.com/images/thumbs/0088543_vw-golf-cabriolet-quartett-1992-blue-1-18.jpg",
-      "product_url": "https://www.baloccomodel.com/101129-vw-golf-cabriolet-quartett-1992-blue-1-18"
-    },
-    {
-      "brand": "Norev",
       "article_code": "NV270587",
       "name": "FORD GRAN TORINO 1974 CHESTNUT BROWN JET CAR 1:43",
       "scale": "1:43",
       "category": "Auto Stradali",
       "image_url": "https://www.baloccomodel.com/images/thumbs/0079482_ford-gran-torino-1974-chestnut-brown-jet-car-1-43.jpg",
       "product_url": "https://www.baloccomodel.com/95297-ford-gran-torino-1974-chestnut-brown-jet-car-1-43"
-    },
-    {
-      "brand": "Norev",
-      "article_code": "NV472842",
-      "name": "PEUGEOT 208 GT 2024 ELIXIR RED 1:43",
-      "scale": "1:43",
-      "category": "Auto Stradali",
-      "image_url": "https://www.baloccomodel.com/images/thumbs/0076185_peugeot-208-gt-2024-elixir-red-1-43.jpg",
-      "product_url": "https://www.baloccomodel.com/95331-peugeot-208-gt-2024-elixir-red-1-43"
     },
     {
       "brand": "Norev",
@@ -1202,24 +1094,6 @@
       "category": "Auto Stradali",
       "image_url": "https://www.baloccomodel.com/images/thumbs/0081863_renault-captur-esprit-alpine-2024-ceramic-grey-e-black-1-43.jpg",
       "product_url": "https://www.baloccomodel.com/98949-renault-captur-esprit-alpine-2024-ceramic-grey-e-black-1-43"
-    },
-    {
-      "brand": "Norev",
-      "article_code": "NV517766",
-      "name": "RENAULT CAPTUR ESPRIT ALPINE 2024 FLAME RED & BLACK 1:43",
-      "scale": "1:43",
-      "category": "Auto Stradali",
-      "image_url": "https://www.baloccomodel.com/images/thumbs/0081862_renault-captur-esprit-alpine-2024-flame-red-e-black-1-43.jpg",
-      "product_url": "https://www.baloccomodel.com/98948-renault-captur-esprit-alpine-2024-flame-red-e-black-1-43"
-    },
-    {
-      "brand": "Norev",
-      "article_code": "NV517821",
-      "name": "ALPINE A108 COUPE  2+2 1961 SILVER 1:43",
-      "scale": "1:43",
-      "category": "Auto Stradali",
-      "image_url": "https://www.baloccomodel.com/images/thumbs/0012989_alpine-a108-coupe-2-2-1961-silver-1-43.jpg",
-      "product_url": "https://www.baloccomodel.com/51925-alpine-a108-coupe-2-2-1961-silver-1-43"
     },
     {
       "brand": "Norev",
@@ -1313,15 +1187,6 @@
     },
     {
       "brand": "Norev",
-      "article_code": "NV183976",
-      "name": "MERCEDES 350 SEL 1979 BLUE 1:18",
-      "scale": "1:18",
-      "category": "Auto Stradali",
-      "image_url": "https://www.baloccomodel.com/images/thumbs/0089072_mercedes-350-sel-1979-blue-1-18.jpg",
-      "product_url": "https://www.baloccomodel.com/102136-mercedes-350-sel-1979-blue-1-18"
-    },
-    {
-      "brand": "Norev",
       "article_code": "NV151528",
       "name": "CITROËN AMI 100% ËLECTRIC 2025 MY AMI PEPS 1:43",
       "scale": "1:43",
@@ -1346,15 +1211,6 @@
       "category": "Auto Stradali",
       "image_url": "https://www.baloccomodel.com/images/thumbs/0081372_alpine-a290-gt-2025-matt-tornade-grey-black-1-18.jpg",
       "product_url": "https://www.baloccomodel.com/96735-alpine-a290-gt-2025-matt-tornade-grey-black-1-18"
-    },
-    {
-      "brand": "Norev",
-      "article_code": "NV512133",
-      "name": "RENAULT 21 NEVADA 1989 RED WITH ACCESSOIRES 1:43",
-      "scale": "1:43",
-      "category": "Auto Stradali",
-      "image_url": "https://www.baloccomodel.com/images/thumbs/0074953_renault-21-nevada-1989-red-with-accessoires-1-43.jpg",
-      "product_url": "https://www.baloccomodel.com/77145-renault-21-nevada-1989-red-with-accessoires-1-43"
     },
     {
       "brand": "Norev",
@@ -1430,15 +1286,6 @@
     },
     {
       "brand": "Norev",
-      "article_code": "NV182600",
-      "name": "AUSTIN HEALEY 3000 Mk.1 1959 GREEN 1:18",
-      "scale": "1:18",
-      "category": "Auto Stradali",
-      "image_url": "https://www.baloccomodel.com/images/thumbs/0065980_austin-healey-3000-mk-1-1959-green-1-18.jpg",
-      "product_url": "https://www.baloccomodel.com/70912-austin-healey-3000-mk-1-1959-green-1-18"
-    },
-    {
-      "brand": "Norev",
       "article_code": "NV184903",
       "name": "PEUGEOT 104 S 1981 IBIS BLUE 1:18",
       "scale": "1:18",
@@ -1454,24 +1301,6 @@
       "category": "Auto Stradali",
       "image_url": "https://www.baloccomodel.com/images/thumbs/0086627_fiat-500-l-1968-pink-with-special-birth-pack-1-18.jpg",
       "product_url": "https://www.baloccomodel.com/63513-fiat-500-l-1968-pink-with-special-birth-pack-1-18"
-    },
-    {
-      "brand": "Norev",
-      "article_code": "NV270505",
-      "name": "ASTON MARTIN DB5 1963 SIERRA BLUE JET CAR 1:43",
-      "scale": "1:43",
-      "category": "Auto Stradali",
-      "image_url": "https://www.baloccomodel.com/images/thumbs/0079006_aston-martin-db5-1963-sierra-blue-jet-car-1-43.jpg",
-      "product_url": "https://www.baloccomodel.com/95289-aston-martin-db5-1963-sierra-blue-jet-car-1-43"
-    },
-    {
-      "brand": "Norev",
-      "article_code": "NV270574",
-      "name": "FORD GT40 1966 N.2 JET-CAR 1:43",
-      "scale": "1:43",
-      "category": "Auto Competizione",
-      "image_url": "https://www.baloccomodel.com/images/thumbs/0072612_ford-gt40-1966-n-2-jet-car-1-43.jpg",
-      "product_url": "https://www.baloccomodel.com/92791-ford-gt40-1966-n-2-jet-car-1-43"
     },
     {
       "brand": "Norev",
@@ -1610,15 +1439,6 @@
     },
     {
       "brand": "Norev",
-      "article_code": "NV518850",
-      "name": "RENAULT MASTER E-TECH 100% ELECTRIC 2024 SILVER 1:43",
-      "scale": "1:43",
-      "category": "Auto Stradali",
-      "image_url": "https://www.baloccomodel.com/images/thumbs/0077621_renault-master-e-tech-100-electric-2024-silver-1-43.jpg",
-      "product_url": "https://www.baloccomodel.com/95280-renault-master-e-tech-100-electric-2024-silver-1-43"
-    },
-    {
-      "brand": "Norev",
       "article_code": "NV750043",
       "name": "PORSCHE 911 TARGA 1969 GREEN JET CAR 1:43",
       "scale": "1:43",
@@ -1643,15 +1463,6 @@
       "category": "Auto Stradali",
       "image_url": "https://www.baloccomodel.com/images/thumbs/0087554_alpine-a110-r-turini-2025-seismic-red-1-18.jpg",
       "product_url": "https://www.baloccomodel.com/98927-alpine-a110-r-turini-2025-seismic-red-1-18"
-    },
-    {
-      "brand": "Norev",
-      "article_code": "NV187884",
-      "name": "ALFA ROMEO 2000 SPIDER 1973 SILVERGREY METALLIC 1:18",
-      "scale": "1:18",
-      "category": "Auto Stradali",
-      "image_url": "https://www.baloccomodel.com/images/thumbs/0087558_alfa-romeo-2000-spider-1973-silvergrey-metallic-1-18.jpg",
-      "product_url": "https://www.baloccomodel.com/98979-alfa-romeo-2000-spider-1973-silvergrey-metallic-1-18"
     },
     {
       "brand": "Norev",
@@ -1688,15 +1499,6 @@
       "category": "Auto Stradali",
       "image_url": "https://www.baloccomodel.com/images/thumbs/0077701_peugeot-104-gr-1981-beige-metallic-1-18.jpg",
       "product_url": "https://www.baloccomodel.com/91485-peugeot-104-gr-1981-beige-metallic-1-18"
-    },
-    {
-      "brand": "Norev",
-      "article_code": "NV517729",
-      "name": "RENAULT MEGANE R.S. TROPHY 2020 SIRIUS YELLOW 1:43",
-      "scale": "1:43",
-      "category": "Auto Stradali",
-      "image_url": "https://www.baloccomodel.com/images/thumbs/0081861_renault-megane-r-s-trophy-2020-sirius-yellow-1-43.jpg",
-      "product_url": "https://www.baloccomodel.com/98947-renault-megane-r-s-trophy-2020-sirius-yellow-1-43"
     },
     {
       "brand": "Norev",
@@ -1751,15 +1553,6 @@
       "category": "Auto Stradali",
       "image_url": "https://www.baloccomodel.com/images/thumbs/0072598_ac-cobra-289-1963-dark-red-1-18.jpg",
       "product_url": "https://www.baloccomodel.com/77105-ac-cobra-289-1963-dark-red-1-18"
-    },
-    {
-      "brand": "Norev",
-      "article_code": "NV183030",
-      "name": "MERCEDES G-CLASS 2024 IRIDIUM SILVER 1:18",
-      "scale": "1:18",
-      "category": "Auto Stradali",
-      "image_url": "https://www.baloccomodel.com/images/thumbs/0086622_mercedes-g-class-2024-iridium-silver-1-18.jpg",
-      "product_url": "https://www.baloccomodel.com/98915-mercedes-benz-230-sl-1963-horizon-blue-1-18"
     },
     {
       "brand": "Norev",
@@ -2141,30 +1934,12 @@
     },
     {
       "brand": "Norev",
-      "article_code": "NV750064",
-      "name": "PORSCHE 917 1970 N°23 JET-CAR\r\r 1:43",
-      "scale": "1:43",
-      "category": "Auto Competizione",
-      "image_url": "https://www.baloccomodel.com/images/thumbs/0084872_porsche-917-1970-n23-jet-car-1-43.jpg",
-      "product_url": "https://www.baloccomodel.com/98938-porsche-917-1970-n23-jet-car-1-43"
-    },
-    {
-      "brand": "Norev",
       "article_code": "NV930000",
       "name": "PONTIAC FIREBIRD \"SUPERCAR-KITT\" 1982 JET-CAR 1:43",
       "scale": "1:43",
       "category": "Movie",
       "image_url": "https://www.baloccomodel.com/images/thumbs/0079492_pontiac-firebird-1982-kitt-jet-car-1-43.jpg",
       "product_url": "https://www.baloccomodel.com/95295-pontiac-firebird-1982-kitt-jet-car-1-43"
-    },
-    {
-      "brand": "Norev",
-      "article_code": "NV511336",
-      "name": "RENAULT EXPRESS 2021 GREY 1:43",
-      "scale": "1:43",
-      "category": "Auto Stradali",
-      "image_url": "https://www.baloccomodel.com/images/thumbs/0061273_renault-express-2021-grey-1-43.jpg",
-      "product_url": "https://www.baloccomodel.com/71390-renault-express-2021-grey-1-43"
     },
     {
       "brand": "Norev",
@@ -2384,30 +2159,12 @@
     },
     {
       "brand": "Norev",
-      "article_code": "NV474557",
-      "name": "PEUGEOT 405 BREAK 1991 MAYFAIR BEIGE METALLIC 1:43",
-      "scale": "1:43",
-      "category": "Auto Stradali",
-      "image_url": "https://www.baloccomodel.com/images/thumbs/0080603_peugeot-405-break-1991-mayfair-beige-metallic-1-43.jpg",
-      "product_url": "https://www.baloccomodel.com/95258-peugeot-405-break-1991-mayfair-beige-metallic-1-43"
-    },
-    {
-      "brand": "Norev",
       "article_code": "NV510622",
       "name": "RENAULT MAXI 5 TURBO N.4 RALLY ASTURIAS 1986 1:43",
       "scale": "1:43",
       "category": "Auto Rally",
       "image_url": "https://www.baloccomodel.com/images/thumbs/0080604_renault-maxi-5-turbo-n-4-rally-asturias-1986-1-43.jpg",
       "product_url": "https://www.baloccomodel.com/96810-renault-maxi-5-turbo-n-4-rally-asturias-1986-1-43"
-    },
-    {
-      "brand": "Norev",
-      "article_code": "NV170012",
-      "name": "DS 7 CROSSBACK PRESIDENTIEL 2017 W/FIGURE REPROD.1:43",
-      "scale": "1:43",
-      "category": "Auto Stradali",
-      "image_url": "https://www.baloccomodel.com/images/thumbs/0072283_ds-7-crossback-presidentiel-2017-w-figure-reprod-1-43.jpg",
-      "product_url": "https://www.baloccomodel.com/74904-ds-7-crossback-presidentiel-2017-w-figure-reprod-1-43"
     },
     {
       "brand": "Norev",
@@ -2525,15 +2282,6 @@
       "category": "Auto Stradali",
       "image_url": "https://www.baloccomodel.com/images/thumbs/0076196_renault-concept-4ever-trophy-e-tech-100-electric-2022-1-43.jpg",
       "product_url": "https://www.baloccomodel.com/95342-renault-concept-4ever-trophy-e-tech-100-electric-2022-1-43"
-    },
-    {
-      "brand": "Norev",
-      "article_code": "NV512132",
-      "name": "RENAULT 21 NEVADA 2018 BLUE 1:43",
-      "scale": "1:43",
-      "category": "Auto Stradali",
-      "image_url": "https://www.baloccomodel.com/images/thumbs/0074952_renault-21-nevada-2018-blue-1-43.jpg",
-      "product_url": "https://www.baloccomodel.com/75755-renault-21-nevada-2018-blue-1-43"
     },
     {
       "brand": "Norev",
@@ -2660,15 +2408,6 @@
       "category": "Auto Stradali",
       "image_url": "https://www.baloccomodel.com/images/thumbs/0067983_citroen-gs-1972-flags-2nd-release-1-18.jpg",
       "product_url": "https://www.baloccomodel.com/77118-citroen-gs-1972-flags-2nd-release-1-18"
-    },
-    {
-      "brand": "Norev",
-      "article_code": "NV188723",
-      "name": "VOLVO 1800 ES (US VERSION) 1972 RED WITH LOWER SIDE STRIPES 1:18",
-      "scale": "1:18",
-      "category": "Auto Stradali",
-      "image_url": "https://www.baloccomodel.com/images/thumbs/0067484_volvo-1800-es-us-version-1972-red-with-lower-side-stripes-1-18.jpg",
-      "product_url": "https://www.baloccomodel.com/73114-volvo-1800-es-us-version-1972-red-with-lower-side-stripes-1-18"
     },
     {
       "brand": "Norev",
@@ -3203,24 +2942,6 @@
     },
     {
       "brand": "Bburago",
-      "article_code": "BU36053R",
-      "name": "FERRARI SF90 HYBRID STRADALE 2019 1:43",
-      "scale": "1:43",
-      "category": "Auto Stradali",
-      "image_url": "https://www.baloccomodel.com/images/thumbs/0023301_ferrari-sf90-hybrid-stradale-2019-1-43.jpg",
-      "product_url": "https://www.baloccomodel.com/62362-ferrari-sf90-hybrid-stradale-2019-1-43"
-    },
-    {
-      "brand": "Bburago",
-      "article_code": "BU36055R",
-      "name": "FERRARI 296 GTB RED 1:43",
-      "scale": "1:43",
-      "category": "Auto Stradali",
-      "image_url": "https://www.baloccomodel.com/images/thumbs/0072902_ferrari-296-gtb-red-1-43.jpg",
-      "product_url": "https://www.baloccomodel.com/93153-ferrari-296-gtb-red-1-43"
-    },
-    {
-      "brand": "Bburago",
       "article_code": "BU36301",
       "name": "FERRARI 488 GTE V8 TEAM RISI N.62 24h DAYT.2017 VIL.-FISICH.-CALADO 1:43",
       "scale": "1:43",
@@ -3635,15 +3356,6 @@
     },
     {
       "brand": "Bburago",
-      "article_code": "BU26032Y",
-      "name": "FERRARI SF90 XX STRADALE 2019 YELLOW 1:24",
-      "scale": "1:24",
-      "category": "Auto Stradali",
-      "image_url": "https://www.baloccomodel.com/images/thumbs/0086299_ferrari-sf90-xx-stradale-2019-yellow-1-24.jpg",
-      "product_url": "https://www.baloccomodel.com/102019-ferrari-sf90-xx-stradale-2019-yellow-1-24"
-    },
-    {
-      "brand": "Bburago",
       "article_code": "BU28040P",
       "name": "MC LAREN MCL38 N.81 OSCAR PIASTRI 2024 WITH FIGURE 1:24",
       "scale": "1:24",
@@ -3725,24 +3437,6 @@
     },
     {
       "brand": "Bburago",
-      "article_code": "BU31103R",
-      "name": "FERRARI 458 ITALIA RED 1:43",
-      "scale": "1:43",
-      "category": "Auto Stradali",
-      "image_url": "https://www.baloccomodel.com/images/thumbs/0004464_ferrari-458-italia-red-1-43.jpg",
-      "product_url": "https://www.baloccomodel.com/43494-ferrari-458-italia-red-1-43"
-    },
-    {
-      "brand": "Bburago",
-      "article_code": "BU36023Z",
-      "name": "FERRARI 488 GTB 2015 BLACK 1:43",
-      "scale": "1:43",
-      "category": "Auto Stradali",
-      "image_url": "https://www.baloccomodel.com/images/thumbs/0004527_ferrari-488-gtb-2015-black-1-43.jpg",
-      "product_url": "https://www.baloccomodel.com/43557-ferrari-488-gtb-2015-black-1-43"
-    },
-    {
-      "brand": "Bburago",
       "article_code": "BU36303",
       "name": "FERRARI F430GT N.97 BMS SCUD.ITALIA 2nd LMGT2 2008 MALUC.-RUB.-BAB.1:43",
       "scale": "1:43",
@@ -3758,15 +3452,6 @@
       "category": "Auto Competizione",
       "image_url": "https://www.baloccomodel.com/images/thumbs/0004544_ferrari-488-challenge-n-1-2016-1-43.jpg",
       "product_url": "https://www.baloccomodel.com/43574-ferrari-488-challenge-n-1-2016-1-43"
-    },
-    {
-      "brand": "Bburago",
-      "article_code": "BU36317",
-      "name": "FERRARI 499P N.83 LE MANS 2024 KUBICA-YIFEI-SCARCMAN SIGNATURE 1:43",
-      "scale": "1:43",
-      "category": "Auto Competizione",
-      "image_url": "https://www.baloccomodel.com/images/thumbs/0084297_ferrari-499p-n-83-le-mans-2024-kubica-yifei-scarcman-1-43.jpg",
-      "product_url": "https://www.baloccomodel.com/96328-ferrari-499p-n-83-le-mans-2024-kubica-yifei-scarcman-1-43"
     },
     {
       "brand": "Bburago",
@@ -4217,15 +3902,6 @@
       "category": "Auto Competizione",
       "image_url": "https://www.baloccomodel.com/images/thumbs/0004346_ferrari-fxx-k-kers-2014-white-1-24.jpg",
       "product_url": "https://www.baloccomodel.com/43376-ferrari-fxx-k-kers-2014-white-1-24"
-    },
-    {
-      "brand": "Bburago",
-      "article_code": "BU26583",
-      "name": "FERRARI 499P N.51 1st 24 H LM 2023 CALADO-GIOVINAZZI-P.GUIDI KIT 1:24",
-      "scale": "1:24",
-      "category": "Auto Competizione",
-      "image_url": "https://www.baloccomodel.com/images/thumbs/0080354_ferrari-499p-n-51-winner-24-h-le-mans-2023-calado-giovinazzi-pier-guidi.jpg",
-      "product_url": "https://www.baloccomodel.com/98102-ferrari-499p-n-51-winner-24-h-le-mans-2023-calado-giovinazzi-pier-guidi"
     },
     {
       "brand": "Bburago",
@@ -5336,15 +5012,6 @@
     },
     {
       "brand": "Bburago",
-      "article_code": "BU30456",
-      "name": "FIAT 500e LA PRIMA 2021 GUN GREY 1:43",
-      "scale": "1:43",
-      "category": "Auto Stradali",
-      "image_url": "https://www.baloccomodel.com/images/thumbs/0070215_fiat-500e-la-prima-cabriolet-2021-gun-grey-1-43.jpg",
-      "product_url": "https://www.baloccomodel.com/91341-fiat-500e-la-prima-cabriolet-2021-gun-grey-1-43"
-    },
-    {
-      "brand": "Bburago",
       "article_code": "BU31400-02",
       "name": "BUGATTI CHIRON + FLATBED TRANSPORTER 1:43",
       "scale": "1:43",
@@ -5495,15 +5162,6 @@
       "category": "Auto Competizione",
       "image_url": "https://www.baloccomodel.com/images/thumbs/0085096_ferrari-499p-n-50-winn-le-mans-2024-fuoco-nielsen-molina-acrylic-box1-18.jpg",
       "product_url": "https://www.baloccomodel.com/96571-ferrari-499p-n-50-winn-le-mans-2024-fuoco-nielsen-molina-acrylic-box1-18"
-    },
-    {
-      "brand": "Bburago",
-      "article_code": "BU11045Z",
-      "name": "BUGATTI DIVO CARBON/AZUR 1:18",
-      "scale": "1:18",
-      "category": "Auto Stradali",
-      "image_url": "https://www.baloccomodel.com/images/thumbs/0004099_bugatti-divo-carbon-azur-1-18.jpg",
-      "product_url": "https://www.baloccomodel.com/43129-bugatti-divo-carbon-azur-1-18"
     },
     {
       "brand": "Bburago",
@@ -6659,15 +6317,6 @@
     },
     {
       "brand": "Maisto",
-      "article_code": "MI31246M",
-      "name": "BMW M4 GTS MATTE BLACK SERIES 1:24",
-      "scale": "1:24",
-      "category": "Auto Stradali",
-      "image_url": "https://www.baloccomodel.com/images/thumbs/0080728_bmw-m4-gts-matte-black-series-1-24.jpg",
-      "product_url": "https://www.baloccomodel.com/98232-bmw-m4-gts-matte-black-series-1-24"
-    },
-    {
-      "brand": "Maisto",
       "article_code": "MI31262A",
       "name": "CHEVROLET NOVA SS COUPE' 1970 GREEN 1:24",
       "scale": "1:24",
@@ -7289,15 +6938,6 @@
     },
     {
       "brand": "Maisto",
-      "article_code": "MI31292B",
-      "name": "LAMBORGHINI MURCIELAGO LP640 2010 LIGHT BLUE 1:24",
-      "scale": "1:24",
-      "category": "Auto Stradali",
-      "image_url": "https://www.baloccomodel.com/images/thumbs/0010170_lamborghini-murcielago-lp640-2010-light-blue-1-24.jpg",
-      "product_url": "https://www.baloccomodel.com/49074-lamborghini-murcielago-lp640-2010-light-blue-1-24"
-    },
-    {
-      "brand": "Maisto",
       "article_code": "MI31465G",
       "name": "ASTON MARTIN VALKYRIE 2022 METALLIC GREEN 1:18",
       "scale": "1:18",
@@ -7322,15 +6962,6 @@
       "category": "Auto Stradali",
       "image_url": "https://www.baloccomodel.com/images/thumbs/0069333_ford-mustang-shelby-gt500-2020-yellow-1-18.jpg",
       "product_url": "https://www.baloccomodel.com/90779-ford-mustang-shelby-gt500-2020-yellow-1-18"
-    },
-    {
-      "brand": "Maisto",
-      "article_code": "MI31465Z",
-      "name": "ASTON MARTIN VALKYRIE 2022 SILVER 1:18",
-      "scale": "1:18",
-      "category": "Auto Stradali",
-      "image_url": "https://www.baloccomodel.com/images/thumbs/0079946_aston-martin-valkyrie-2022-silver-1-18.jpg",
-      "product_url": "https://www.baloccomodel.com/97813-aston-martin-valkyrie-2022-silver-1-18"
     },
     {
       "brand": "Maisto",
@@ -8153,15 +7784,6 @@
     },
     {
       "brand": "Solido",
-      "article_code": "SL1812701",
-      "name": "VOLKSWAGEN GOLF 2 GTI G60\r\nMARS RED 1989 1:18",
-      "scale": "1:18",
-      "category": "Auto Stradali",
-      "image_url": "https://www.baloccomodel.com/images/thumbs/0090689_volkswagen-golf-2-gti-g60mars-red-1989-1-18.jpg",
-      "product_url": "https://www.baloccomodel.com/102546-volkswagen-golf-2-gti-g60mars-red-1989-1-18"
-    },
-    {
-      "brand": "Solido",
       "article_code": "SL1814802",
       "name": "BMW M5 TOURING 2025 ALPINE\r\nWHITE SOLID 1:18",
       "scale": "1:18",
@@ -8432,15 +8054,6 @@
     },
     {
       "brand": "Solido",
-      "article_code": "SL1801308",
-      "name": "RENAULT R5 TURBO 1981 BLUE 1:18",
-      "scale": "1:18",
-      "category": "Auto Stradali",
-      "image_url": "https://www.baloccomodel.com/images/thumbs/0076913_renault-r5-turbo-1981-blue-1-18.jpg",
-      "product_url": "https://www.baloccomodel.com/95830-renault-r5-turbo-1981-blue-1-18"
-    },
-    {
-      "brand": "Solido",
       "article_code": "SL1804311",
       "name": "NISSAN SKYLINE (R34) GT-R Z TUNE 1999 MIDNIGHT PURPLE 1:18",
       "scale": "1:18",
@@ -8465,15 +8078,6 @@
       "category": "Auto Stradali",
       "image_url": "https://www.baloccomodel.com/images/thumbs/0086016_bmw-6-series-635-csi-e24-coupe-1984-macau-blue-1-18.jpg",
       "product_url": "https://www.baloccomodel.com/101851-bmw-6-series-635-csi-e24-coupe-1984-macau-blue-1-18"
-    },
-    {
-      "brand": "Solido",
-      "article_code": "SL1811301",
-      "name": "FIAT NUOVA 500 ABARTH 595 2022 WHITE 1:18",
-      "scale": "1:18",
-      "category": "Auto Stradali",
-      "image_url": "https://www.baloccomodel.com/images/thumbs/0079579_fiat-nuova-500-abarth-595-2022-white-1-18.jpg",
-      "product_url": "https://www.baloccomodel.com/97562-fiat-nuova-500-abarth-595-2022-white-1-18"
     },
     {
       "brand": "Solido",
@@ -8834,15 +8438,6 @@
       "category": "Auto Stradali",
       "image_url": "https://www.baloccomodel.com/images/thumbs/0082817_toyota-supra-mkiv-a80-coupe-1993-green-black-1-18.jpg",
       "product_url": "https://www.baloccomodel.com/99570-toyota-supra-mkiv-a80-coupe-1993-green-black-1-18"
-    },
-    {
-      "brand": "Solido",
-      "article_code": "SL1810301",
-      "name": "BMW 6-SERIES 635 CSi (E24) COUPE RED 1984 1:18",
-      "scale": "1:18",
-      "category": "Auto Stradali",
-      "image_url": "https://www.baloccomodel.com/images/thumbs/0075100_bmw-6-series-635-csi-e24-coupe-red-1984-1-18.jpg",
-      "product_url": "https://www.baloccomodel.com/94505-bmw-6-series-635-csi-e24-coupe-red-1984-1-18"
     },
     {
       "brand": "Solido",
@@ -9827,15 +9422,6 @@
     },
     {
       "brand": "Solido",
-      "article_code": "SL1801512",
-      "name": "BMW E30 M3 N.4 BTCC 1991 HARVEY 1:18",
-      "scale": "1:18",
-      "category": "Auto Competizione",
-      "image_url": "https://www.baloccomodel.com/images/thumbs/0059390_bmw-e30-m3-n-4-btcc-1991-harvey-1-18.jpg",
-      "product_url": "https://www.baloccomodel.com/73247-bmw-e30-m3-btcc-1991-1-18"
-    },
-    {
-      "brand": "Solido",
       "article_code": "SL4317202",
       "name": "RENAULT ALPINE A110 RADICALE COUPE 2023 ORANGE 1:43",
       "scale": "1:43",
@@ -10445,15 +10031,6 @@
       "category": "Auto Competizione",
       "image_url": "https://www.baloccomodel.com/images/thumbs/0065262_alpine-a-110-1600s-n-5-olympia-rally-1972-nicolas-todt-1-18.jpg",
       "product_url": "https://www.baloccomodel.com/75911-alpine-a-110-1600s-n-5-olympia-rally-1972-nicolas-todt-1-18"
-    },
-    {
-      "brand": "Solido",
-      "article_code": "SL1807201",
-      "name": "PORSCHE 935 K3 N.41 WINNER LM 1979 K.LUDWIG-D.WHITTINGTON-B.WHITTINGTON",
-      "scale": "1:18",
-      "category": "Auto Competizione",
-      "image_url": "https://www.baloccomodel.com/images/thumbs/0061642_porsche-935-k3-n-41-winner-lm-1979-k-ludwig-d-whittington-b-whittington.jpg",
-      "product_url": "https://www.baloccomodel.com/74464-porsche-935-mobydick-n-30-momo-6h-mid-ohio-1983-v-der-merwe-moretti-1-18"
     },
     {
       "brand": "Solido",
